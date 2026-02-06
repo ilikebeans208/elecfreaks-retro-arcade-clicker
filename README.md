@@ -1,28 +1,45 @@
- 
+# ElecFreaks Retro Arcade Clicker
 
+Open this page:  
+https://ilikebeans208.github.io/elecfreaks-retro-arcade-clicker/
 
-> Open this page at [https://ilikebeans208.github.io/elecfreaks-retro-arcade-clicker/](https://ilikebeans208.github.io/elecfreaks-retro-arcade-clicker/)
+---
 
-## Use as Extension
+## Use as an Extension
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/ilikebeans208/elecfreaks-retro-arcade-clicker** and import
+1. Open https://arcade.makecode.com/
+2. Click **New Project**
+3. Click **Extensions** under the gear ⚙️ menu
+4. Search for: https://github.com/ilikebeans208/elecfreaks-retro-arcade-clicker
+5. Import the extension
 
-## Edit this project
+---
 
-To edit this repository in MakeCode.
+## Edit This Project
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/ilikebeans208/elecfreaks-retro-arcade-clicker** and click import
+To edit this repository in MakeCode:
 
-* REQUIRES THE ELECFREAKS micro:bit Retro Arcade Pro.
+1. Open https://arcade.makecode.com/
+2. Click **Import**
+3. Select **Import URL**
+4. Paste: https://github.com/ilikebeans208/elecfreaks-retro-arcade-clicker
+5. Click **Import**
 
-#### Metadata (used for search, rendering)####
+---
 
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+## Requirements
+
+- **ElecFreaks micro:bit Retro Arcade Pro**
+
+---
+
+## Metadata (used for search and rendering)
+
+- for **PXT / Arcade**
+
+<script src="https://makecode.com/gh-pages-embed.js"></script>
+<script>
+makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");
+</script>
