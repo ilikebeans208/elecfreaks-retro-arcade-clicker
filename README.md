@@ -20,6 +20,8 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/ilikebeans208/elecfreaks-retro-arcade-clicker** and click import
 
+* REQUIRES THE ELECFREAKS micro:bit Retro Arcade Pro.
+
 #### Metadata (used for search, rendering)
 
 * for PXT/arcade
