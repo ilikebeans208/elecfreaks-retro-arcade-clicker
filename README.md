@@ -32,6 +32,7 @@ To edit this repository in MakeCode:
 ## Requirements
 
 - **ElecFreaks micro:bit Retro Arcade Pro**
+- NOTE: Sounds will change when transferring.
 
 ---
 
