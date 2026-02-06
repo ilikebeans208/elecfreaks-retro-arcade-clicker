@@ -111,4 +111,4 @@ cookie,
 500,
 true
 )
-game.showLongText("Press A to click! Made by Daniel Lechtman v1.1", DialogLayout.Full)
+game.showLongText("Press A to click! v1.2", DialogLayout.Full)
