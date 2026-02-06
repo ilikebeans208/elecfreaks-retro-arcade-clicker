@@ -32,15 +32,14 @@ To edit this repository in MakeCode:
 ## Requirements
 
 - **ElecFreaks micro:bit Retro Arcade Pro**
-- NOTE: Sounds will change when transferring.
+- **NOTE:** Sound will change when transferring to micro:bit.
 
----
-
-## Metadata (used for search and rendering)
-
-- for **PXT / Arcade**
+<!--
+Metadata (used for search and rendering)
+for PXT / Arcade
 
 <script src="https://makecode.com/gh-pages-embed.js"></script>
 <script>
 makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");
 </script>
+-->
