@@ -39,6 +39,7 @@ let cookie = sprites.create(img`
     ......ffccccbbbbbbbbbbbbff......
     ........ffffffffffffffff........
     `, SpriteKind.Player)
+game.showLongText("Press A to click! v1.2 Download the code at: https://www.shorturl.at/G3y81", DialogLayout.Full)
 animation.runImageAnimation(
 cookie,
 [img`
@@ -108,7 +109,6 @@ cookie,
     ......ffccccbbbbbbbbbbbbff......
     ........ffffffffffffffff........
     `],
-500,
+1000,
 true
 )
-game.showLongText("Press A to click! v1.2", DialogLayout.Full)
